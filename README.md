@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ocronk10@gmail.com**
 
-- ⚡ Fun fact **99 percent of our solar system's mass is the sun**
+- ⚡ Fun fact: **99 percent of our solar system's mass is the sun!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
