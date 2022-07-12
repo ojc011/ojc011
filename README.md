@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ojc011" alt="ojc011" /></a> </p>
 
-- 🔭 I’m currently working on [eCommerceBiz](https://github.com/ojc011/ecommercebiz)
+- 🔭 I’m currently working on an [Instagram Automation Application using Python]([https://github.com/ojc011/ecommercebiz](https://github.com/ojc011/InstaAutomationBot))
 
-- 🌱 I’m currently learning **Python and refining my Javascript abilities.**
+- 🌱 Currently, I am learning **Python and refining my Javascript abilities.**
 
 - 👨‍💻 Most of my projects are available at [https://ojc011.github.io/OCReactPortfolio/](https://ojc011.github.io/OCReactPortfolio/)
 
-- 💬 Ask me about **MERN stack!**
+- 💬 Ask me about **MERN stack or Python!**
 
 - 📫 How to reach me **ocronk10@gmail.com**
 
