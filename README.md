@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ojc011" alt="ojc011" /></a> </p>
 
-- 🔭 I’m currently working on an [Instagram Automation Application using Python]([https://github.com/ojc011/InstaAutomationBot])
+- 🔭 I’m currently working on an [Instagram Automation Application using Python](https://github.com/ojc011/InstaAutomationBot)
 
 - 🌱 Currently, I am learning **Python and refining my Javascript abilities.**
 
